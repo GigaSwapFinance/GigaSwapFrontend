@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none" class="injected-svg" data-src="/assets/success-16-filled-7e6fa267.svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img">
+    <g>
+        <circle cx="8" cy="8" r="8" fill="rgb(var(--dynamic-green, 21 164 95))"></circle>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12.4193 5.29821C12.7122 5.5911 12.7122 6.06598 12.4193 6.35887L7.46956 11.3086C7.17666 11.6015 6.70179 11.6015 6.4089 11.3086L3.58047 8.48019C3.28758 8.1873 3.28758 7.71242 3.58047 7.41953C3.87336 7.12664 4.34824 7.12664 4.64113 7.41953L6.93923 9.71763L11.3586 5.29821C11.6515 5.00532 12.1264 5.00532 12.4193 5.29821Z" fill="white"></path>
+    </g>
+</svg>

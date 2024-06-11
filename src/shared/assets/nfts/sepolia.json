@@ -1,0 +1,17 @@
+[
+  {
+    "type": "ERC721",
+    "address": "0x716Af43E87d890c8CC0D562E5e8eF35bdE157ED4",
+    "name": "Test ERC-721 Token",
+    "symbol": "erc721",
+    "logoURI": ""
+  },
+
+  {
+    "type": "ERC721",
+    "address": "0x30a1949cd32fbd44d258299d53f4449c92fbee0c",
+    "name": "ContractNFT",
+    "symbol": "CN",
+    "logoURI": ""
+  }
+]

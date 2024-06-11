@@ -1,0 +1,41 @@
+[
+  {
+    "type": "ERC20",
+    "address": "0x044BdcDeE988BCA9405cb6D7cab0514Bd387aaf8",
+    "name": "GigaSwap Wrapped Ether",
+    "symbol": "gWETH",
+    "decimals": 18,
+    "logoURI": "/images/currencies/gweth.svg",
+    "pairs": []
+  },
+
+  {
+    "type": "ERC20",
+    "address": "0xff34b3d4aee8ddcd6f9afffb6fe49bd371b8a357",
+    "name": "Dai Stablecoin",
+    "symbol": "DAI",
+    "decimals": 18,
+    "logoURI": "/images/currencies/dai.svg",
+    "pairs": []
+  },
+
+  {
+    "type": "ERC20",
+    "address": "0x94a9d9ac8a22534e3faca9f4e7f2e2cf85d5e4c8",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "/images/currencies/usdc.svg",
+    "pairs": []
+  },
+
+  {
+    "type": "ERC20",
+    "address": "0xfFf9976782d46CC05630D1f6eBAb18b2324d6B14",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": 18,
+    "logoURI": "",
+    "pairs": []
+  }
+]

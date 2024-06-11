@@ -1,0 +1,19 @@
+[
+  {
+    "chainId": 5,
+    "type": "ERC721",
+    "address": "0x2789874c85056D4447b3ABfF054066132494605E",
+    "name": "Erc721 Test Token",
+    "symbol": "ERC721T",
+    "logoURI": ""
+  },
+
+  {
+    "chainId": 5,
+    "type": "ERC721",
+    "address": "0x3f228cbcec3ad130c45d21664f2c7f5b23130d23",
+    "name": "Beta Token",
+    "symbol": "BTK",
+    "logoURI": ""
+  }
+]
